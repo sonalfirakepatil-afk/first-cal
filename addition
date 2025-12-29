@@ -1,3 +1,7 @@
 #!/bin/bash
 x=a+b
 end of program
+adding division
+#working from command line 
+x=a/b
+end of dicision 
