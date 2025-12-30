@@ -1,0 +1,8 @@
+#!/bin/bash
+read -p name 
+echo $name
+if [ $? eq 0 ]
+then
+echo "Success"
+fi
+#Brach create from UI
